@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 30px;
+  }
+
+.p{
+    word-wrap: break-word;
+}
+.img-head{
+    color: rgb(40, 167, 69);
+    text-align: center;
+    font-weight: bold; 
+}
+
+.distance{
+    padding: 30px;
+
+}
